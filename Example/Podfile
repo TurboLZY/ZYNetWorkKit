@@ -1,0 +1,13 @@
+use_frameworks!
+
+platform :ios, '8.0'
+
+target 'ZYNetWorkKit_Example' do
+  pod 'ZYNetWorkKit', :path => '../'
+
+  target 'ZYNetWorkKit_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
