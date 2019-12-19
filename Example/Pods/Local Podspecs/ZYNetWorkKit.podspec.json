@@ -1,0 +1,30 @@
+{
+  "name": "ZYNetWorkKit",
+  "version": "1",
+  "summary": "A short description of ZYNetWorkKit.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/TurboLZY/ZYNetWorkKit.git",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "赖哲园": "18312028908@163.com"
+  },
+  "source": {
+    "git": "https://github.com/TurboLZY/ZYNetWorkKit.git",
+    "tag": "1"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "ZYNetWorkKit/Classes/**/*",
+  "dependencies": {
+    "AFNetworking": [
+      "~> 3.2.1"
+    ],
+    "YYModel": [
+
+    ]
+  }
+}

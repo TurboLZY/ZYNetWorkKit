@@ -1,0 +1,6 @@
+framework module ZYNetWorkKit {
+  umbrella header "ZYNetWorkKit-umbrella.h"
+
+  export *
+  module * { export * }
+}
